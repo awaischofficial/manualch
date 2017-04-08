@@ -1,0 +1,74 @@
+body{
+	background-image: url(http://feelgrafix.com/data/wallpaper-hd/Wallpaper-HD-15.jpg);
+	color: #FF9933;
+	text-align: center;
+	font-family: Century Gothic;
+	font-size: 14pt;
+	background-color: black;
+	font-weight: bold;
+	padding: 0px;
+}
+a {
+color:#fff;
+}
+a:hover {
+color:green;
+}
+td, th, p, li,table{
+	background: #2e2b28;
+	border:1px solid #524f46;
+	text-align: center;
+	-moz-border-radius: 5px;
+-webkit-border-radius: 5px;
+border-radius: 5px;
+}
+.result {
+padding: 15px;
+border: 1px solid #CCC;
+width: 500px;
+margin: 0 auto;
+border-radius: 10px;
+-moz-border-radius: 10px;
+-webkit-border-radius: 10px;
+}
+input{
+	border: 1px solid;
+	overflow: hidden;
+	background: #2e2b28;
+	color: #FF9933;
+	-moz-border-radius: 5px;
+-webkit-border-radius: 5px;
+border-radius: 5px;
+}
+textarea{
+	border: 1px solid;
+	overflow: hidden;
+	background: #2e2b28;
+	color: #FF9933;
+	-moz-border-radius: 5px;
+-webkit-border-radius: 5px;
+border-radius: 5px;
+}
+.main {
+font-family: Bookman Old Style, Century Gothic;
+font-size: 40pt;
+text-shadow: 0px 0px 6px rgb(255, 0, 0), 0px 0px 5px rgb(255, 0, 0), 0px 0px 5px rgb(255, 0, 0);
+color: rgb(255, 255, 255);
+}
+.button {
+	-webkit-box-shadow:rgba(0,0,0,0.2) 0 1px 0 0;
+	-moz-box-shadow:rgba(0,0,0,0.2) 0 1px 0 0;
+	box-shadow:rgba(0,0,0,0.2) 0 1px 0 0;
+	color:#333;
+	background-color:#FA2;
+	border-radius:5px;
+	-moz-border-radius:5px;
+	-webkit-border-radius:5px;
+	border:none;
+	font-family:Arial,sans-serif;
+	font-size:16px;
+	font-weight:700;
+	height:32px;
+	padding:4px 16px;
+	text-shadow:#FE6 0 1px 0
+}
